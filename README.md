@@ -2,6 +2,12 @@
 
 ## Contributions
 
+### 2018
+
+* TEPIC2 [DOI: 10.1093/bioinformatics/bty856](https://doi.org/10.1093/bioinformatics/bty856)
+  * [TEPIC2 @ Github](https://github.com/SchulzLab/TEPIC)
+  * coding, contributing author
+
 ### 2017
 
 * CoMIK [DOI: 10.4230/LIPIcs.WABI.2017.16](http://dx.doi.org/10.4230/LIPIcs.WABI.2017.16)
